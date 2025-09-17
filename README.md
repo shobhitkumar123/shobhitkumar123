@@ -1,5 +1,7 @@
 About me:
 
+- Learner | CSE Grad KIOT'26 | Alumnus BVB'22 | Coding [C , C++ & Java] | DSA in C++| Chess
+
 - 👋 Hi, I’m @shobhitkumar123
 - 👀 I’m interested in : Software Development
 - 🌱 I’m currently learning : C++ With DSA
